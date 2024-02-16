@@ -1,0 +1,5 @@
+Course Objectives: 
+ > Understand DevOps Fundamentals:
+   - Explore the core principles and concepts of DevOps.
+   - Gain insights into the cultural shift and collaborative nature of DevOps practices.
+   
