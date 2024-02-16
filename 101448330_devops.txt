@@ -5,3 +5,6 @@ Course Objectives:
  >  Automation and Toolchain:
    - Learn about the automation of build, test, and deployment processes.
    - Explore popular DevOps tools such as Jenkins, Git, Docker, and Ansible.
+ > Continuous Integration and Continuous Delivery (CI/CD):
+   - Implement CI/CD pipelines to achieve faster and more reliable software releases.
+   - Understand the importance of continuous integration and delivery in the DevOps context.
