@@ -24,3 +24,6 @@ A file about George Brown College.
 A file about the COMP2156 Course.
 
 And a file with details about DevOps in software development.
+
+## References
+-- https://docs.github.com/en/actions/quickstart
