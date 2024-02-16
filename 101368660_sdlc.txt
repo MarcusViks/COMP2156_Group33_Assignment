@@ -1,2 +1,3 @@
 ## learing the devops dev cycle
 ## add commit push
+## these are the key 3 things to remmber
