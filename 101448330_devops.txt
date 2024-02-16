@@ -2,4 +2,6 @@ Course Objectives:
  > Understand DevOps Fundamentals:
    - Explore the core principles and concepts of DevOps.
    - Gain insights into the cultural shift and collaborative nature of DevOps practices.
-   
+ >  Automation and Toolchain:
+   - Learn about the automation of build, test, and deployment processes.
+   - Explore popular DevOps tools such as Jenkins, Git, Docker, and Ansible.
