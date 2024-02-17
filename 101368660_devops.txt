@@ -1,0 +1,3 @@
+# this is a good class
+# We learn about devops in this class
+## we are doing a group project 
