@@ -1,0 +1,9 @@
+COMP 2156, titled "DevOps For System Administration," is a course within the Computer Systems Technology program at George Brown College.
+The Computer Systems Technology program at George Brown College is designed with extensive industry input and offers two optional specializations: Networking and Systems. 
+The Systems specialization includes courses on mail server administration, content management systems, database administration, and computer security, among other.
+Students in the course have worked with Travis CI, as indicated by a lab document found on Course Hero
+COMP 2156 is part of the Systems specialization in the Computer Systems Technology program
+DevOps practices enable faster and more frequent software releases
+DevOps encourages automation, which reduces manual processes and improves efficiency
+DevOps includes continuous integration and continuous delivery (CI/CD) pipelines, which allow for faster and more reliable software releases.
+DevOps practices emphasize quality assurance through automated testing, code reviews, and continuous monitoring
