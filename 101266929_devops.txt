@@ -1,15 +1,16 @@
 # Information about COMP 2156
 
-There are many reasons to why DevOps is important in software development.
-
-Here are a couple points:
-
-- Improved Team Collaboration.
-
-- Scalability
-
-- Increased Reliability
-
-- Cost Efficiency.
+Our course, COMP2156, teaches us many things about DevOps.
 
 
+The course will allow us to:
+
+- knowledge of strategies such as CI/CD
+
+- Understanding of Cloud database technologies
+
+- Automating configurations and operations
+
+- Version control system workdflows
+
+- integrating security practices into the development cycle.
