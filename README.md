@@ -31,4 +31,3 @@ The goal of this assignment is for group members to work together.
 
 ## References
 -- https://docs.github.com/en/actions/quickstart
->>>>>>> 5dd333ecb0ea834481de8e9d1e3e811e1c5b0595
