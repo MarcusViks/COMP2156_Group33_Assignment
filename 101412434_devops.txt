@@ -4,3 +4,4 @@ The Systems specialization includes courses on mail server administration, conte
 Students in the course have worked with Travis CI, as indicated by a lab document found on Course Hero
 COMP 2156 is part of the Systems specialization in the Computer Systems Technology program
 DevOps practices enable faster and more frequent software releases
+DevOps encourages automation, which reduces manual processes and improves efficiency
