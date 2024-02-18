@@ -1,1 +1,2 @@
 COMP 2156, titled "DevOps For System Administration," is a course within the Computer Systems Technology program at George Brown College.
+The Computer Systems Technology program at George Brown College is designed with extensive industry input and offers two optional specializations: Networking and Systems. 
