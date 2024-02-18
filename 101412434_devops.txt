@@ -5,3 +5,5 @@ Students in the course have worked with Travis CI, as indicated by a lab documen
 COMP 2156 is part of the Systems specialization in the Computer Systems Technology program
 DevOps practices enable faster and more frequent software releases
 DevOps encourages automation, which reduces manual processes and improves efficiency
+DevOps includes continuous integration and continuous delivery (CI/CD) pipelines, which allow for faster and more reliable software releases.
+DevOps practices emphasize quality assurance through automated testing, code reviews, and continuous monitoring
