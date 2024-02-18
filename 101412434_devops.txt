@@ -1,1 +1,1 @@
-hiii
+COMP 2156, titled "DevOps For System Administration," is a course within the Computer Systems Technology program at George Brown College.
