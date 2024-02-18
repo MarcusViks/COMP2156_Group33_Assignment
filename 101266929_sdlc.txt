@@ -1,0 +1,22 @@
+# Importance of learning DevOps software development cycle
+
+There are many reasons to why DevOps is important in software development.
+
+
+Here are a couple of points:
+
+- Imporved Team Collaboration
+
+- Scalability
+
+- Increased Reliability
+
+- Cost Efficiency
+
+
+
+In general, DevOps is a crucial skill to learn, especially in a software driven field.
+
+It is an In-Demand skill set, along with allowing people to advance their career at a fast pace.
+
+It is fairly future-proof. and also teaches skills that can help someone stay adaptable.
