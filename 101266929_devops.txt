@@ -1,1 +1,15 @@
 # Information about COMP 2156
+
+There are many reasons to why DevOps is important in software development.
+
+Here are a couple points:
+
+- Improved Team Collaboration.
+
+- Scalability
+
+- Increased Reliability
+
+- Cost Efficiency.
+
+
