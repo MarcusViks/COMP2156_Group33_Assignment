@@ -1,1 +1,2 @@
-hello
+DevOps breaks down silos between development and operations teams, fostering a culture of collaboration and communication, which leads to seamless development cycles, quick error discovery, and faster route to market
+
