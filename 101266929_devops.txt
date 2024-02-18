@@ -1,0 +1,24 @@
+# Information about COMP 2156
+
+Our course, COMP2156, teaches us many things about DevOps.
+
+
+The course will allow us to:
+
+- knowledge of strategies such as CI/CD
+
+- Understanding of Cloud database technologies
+
+- Automating configurations and operations
+
+- Version control system workdflows
+
+- integrating security practices into the development cycle.
+
+
+While our course is fully online, it still allows us to learn the basics of DevOps.
+
+Being able to use Git, CLI, GitHub, and CI/CD is not only important for DevOps,
+but it is also important for many other CS related jobs/tasks.
+
+While we are already half way through the semester, I am still excited to learn all there is to know about DevOps.

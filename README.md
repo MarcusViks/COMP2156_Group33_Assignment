@@ -29,3 +29,6 @@ The goal of this assignment is for group members to work together.
 **_All Team Members_** will create their own branch, which we will then merge all of those branches with the main repo!
 
 
+## References
+-- https://docs.github.com/en/actions/quickstart
+>>>>>>> 5dd333ecb0ea834481de8e9d1e3e811e1c5b0595
