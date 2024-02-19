@@ -16,6 +16,8 @@ Viks, Marcus
 
 The goal of this assignment is for group members to work together.
 
+let's do our best.
+
 
 3 .txt files are created for this assignment, which include:
 
