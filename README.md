@@ -16,6 +16,7 @@ Viks, Marcus
 
 The goal of this assignment is for group members to work together.
 Everyone creates their own branch, and ultimately merges with the main.
+let's do our best.
 
 3 .txt files are created for this assignment, which include:
 
